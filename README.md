@@ -10,4 +10,5 @@ Simple ERC20 Token
 - Tailwind
 - @heroicons/react
 - @headlessui/react@latest
+- lucide-react
 - Ethers.js
